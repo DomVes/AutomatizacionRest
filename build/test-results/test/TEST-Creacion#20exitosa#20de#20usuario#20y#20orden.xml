@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Creacion exitosa de usuario y orden" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-08-23T14:01:49" hostname="SQAMED-83267" time="5.531">
+  <properties/>
+  <testcase name="Creacion de Orden" classname="Creacion exitosa de usuario y orden" time="5.531"/>
+  <system-out><![CDATA[{"code":200,"type":"unknown","message":"9222968140497204386"}
+{"code":200,"type":"unknown","message":"0"}
+{"code":200,"type":"unknown","message":"0"}
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
